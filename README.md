@@ -1,2 +1,3 @@
-# dev_algorithm-implementations.ajc
-Comprehensive sandbox of algorithm implementations across multiple programming languages, showcasing a variety of techniques and optimizations.
+# dev_index_algoritms.ajc
+
+Implementations of algorithms.

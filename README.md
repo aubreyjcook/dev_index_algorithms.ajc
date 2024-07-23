@@ -1,3 +1,3 @@
 # dev_index_algorithms.ajc
 
-Implementations of algorithms.
+Technology-agnostic environment for indexing implementations of algorithms.
